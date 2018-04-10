@@ -1,0 +1,21 @@
+st3127
+*   33f07a6 (HEAD -> master, branch1,2) 9th commit, reach final node
+|\  
+| *   f98c9cc (branch1) 7th commit, Merge branch1.1 into branch(1,2)
+| |\  
+| | * 91128dd (branch1.1) 3nd commit branch 1.1
+* | |   8440d5d 8th commit, Merge branch2.2 into branch1,2
+|\ \ \  
+| |/ /  
+|/| |   
+| * | db3a225 (branch2.2) 5th commit, branch 2.2
+* | |   3767cf3 6th commit, Merge branch1 and branch2, get branch(1,2)
+|\ \ \  
+| |/ /  
+| | /   
+| |/    
+|/|     
+| * 30bf697 (branch2) 4th commit, branch 2
+* | d80895d 2nd commit, branch 1
+|/  
+* ff41505 1st commit, master branch
