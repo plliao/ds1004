@@ -1,3 +1,23 @@
+pll273
+*   36e31ba Merge branch 'branch4'
+|\  
+| *   bd0a193 Merge branch 'branch3' into branch4
+| |\  
+| | * 2808269 t3
+* | |   a10c1fc Merge branch 'branch2'
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 9355bcd t5
+* | |   87bcaa3 Merge branch 'branch1'
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 469db8f t2
+* | a992276 t4
+|/  
+* 95b03d7 t1
 st3127
 *   33f07a6 (HEAD -> master, branch1,2) 9th commit, reach final node
 |\  
