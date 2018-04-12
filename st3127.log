@@ -1,3 +1,23 @@
+chl566
+*   0a9aef1 merge b4
+|\  
+| *   d265284 Merge branch 'b3' into b4
+| |\  
+| | * 5754935 1st commit on b3
+* | |   78fc2ae Merge branch 'b2'
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 38ee505 1st commit on b2
+* | |   fbad489 Merge branch 'b1'
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * e47b8c5 1st commit on b1
+* | 2592077 2nd commit on master
+|/  
+* 8fedef9 1st commit on master
 st3127
 *   33f07a6 (HEAD -> master, branch1,2) 9th commit, reach final node
 |\  
